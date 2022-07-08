@@ -18,6 +18,16 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.178)
 }
 
+div#msg {
+    text-align: center;
+    padding: 8px;
+}
+
+div#imagem {
+    text-align: center;
+    padding: 8px;
+}
+
 footer {
     color: white;
     text-align: center;
